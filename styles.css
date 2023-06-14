@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#about {
+    border-style: solid;
+}
+
+#underline {
+    padding: 10px;
+}
+
+#padding {
+    padding-bottom: 35px;
+}
